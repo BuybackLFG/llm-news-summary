@@ -14,7 +14,7 @@ if not GROQ_API_KEY:
     raise ValueError("Missing required environment variable: GROQ_API_KEY")
 
 NEWSDATA_URL = "https://newsdata.io/api/1/news"
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_API_URL = "https://api.groq.com/openai/v1"
 LLM_MODEL = "openai/gpt-oss-120b"
 GROQ_RPM = 30
 GROQ_MIN_INTERVAL_SEC = 60.0 / GROQ_RPM

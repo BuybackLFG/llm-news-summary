@@ -14,7 +14,6 @@ def fetch_top_news(api_key: str) -> List[ArticleRaw]:
     """Получает топ новости из NewsData.io с retry-логикой."""
     params = {
         "apikey": api_key,
-        "language": "*",
     }
 
     last_exception: Optional[Exception] = None
