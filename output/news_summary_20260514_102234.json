@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-05-14T10:22:34.482226+00:00",
+  "source_api": "NewsData.io",
+  "llm_model": "google/gemma4:31b",
+  "total_raw_articles": 10,
+  "total_summarized": 10,
+  "articles": [
+    {
+      "summary": "Jeep is recalling over 20,000 Cherokee SUVs in Canada due to a potential risk of rollaway and loss of power. The recall notice was posted on the Transport Canada website on May 13.",
+      "original_data": {
+        "title": "Jeep recalls more than 20,000 SUVs in Canada over potential rollaway and loss of power risk",
+        "link": "https://www.parrysound.com/news/jeep-cherokee-rollaway-risk-recall/article_ef38f8a9-06e8-5a0d-bd78-0945b894bd34.html",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "The Jeep Cherokee recall was posted on the Transport Canada website May 13.",
+        "source_id": "parrysound",
+        "language": "english"
+      }
+    },
+    {
+      "summary": "Willamette Valley Vineyards reported a loss per common share of $0.24 for the first quarter ended March 31, 2026. This follows a loss of $0.26 per common share for the same period in 2025.",
+      "original_data": {
+        "title": "Willamette Valley Vineyards Posts Results for Q1 2026",
+        "link": "https://www.prnewswire.com/news-releases/willamette-valley-vineyards-posts-results-for-q1-2026-302771597.html",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "SALEM, Ore., May 13, 2026 /PRNewswire/ -- Willamette Valley Vineyards, Inc. (NASDAQ:WVVI) (the \"Company\"), a leading Oregon producer of Pinot Noir, generated a loss per common share after preferred dividends of $0.24 and $0.26 for the three months ended March 31, 2026 and 2025...",
+        "source_id": "cision",
+        "language": "english"
+      }
+    },
+    {
+      "summary": "El entrenador del purasangre japonés Forever Young ha tomado una decisión sobre el futuro del caballo. El ejemplar recientemente ganó la Saudi Cup y obtuvo el segundo puesto en la Dubai World Cup.",
+      "original_data": {
+        "title": "Entrenador de Forever Young toma esta decisión sobre su futuro",
+        "link": "https://meridiano.net/hipismo/entrenador-de-forever-young-toma-esta-decision-sobre-su-futuro-202651318210",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "El purasangre japonés viene de ganar la Saudí Cup y llegar segundo en la Dubaí World Cup (G1)",
+        "source_id": "meridiano",
+        "language": "spanish"
+      }
+    },
+    {
+      "summary": "Prince Harry has condemned the increase of antisemitic violence in Britain in a column for the New Statesman. This statement comes approximately 20 years after he wore a Nazi uniform to a party.",
+      "original_data": {
+        "title": "Harry's Nazi 'mistake' shame as he blasts 'lethal' antisemitism sweeping Britain",
+        "link": "https://www.express.co.uk/news/royal/2205310/prince-harry-nazi-uniform-antisemitism-britain-new-statesman",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "Prince Harry has condemned 'lethal' antisemitic violence in Britain in a New Statesman column - written around 20 years after he wore a Nazi uniform to a party.",
+        "source_id": "expresscouk",
+        "language": "english"
+      }
+    },
+    {
+      "summary": "Inter Milan berhasil meraih gelar ganda setelah memenangkan Scudetto dan trofi Coppa Italia ke-10 dengan mengalahkan Lazio di laga final. Cristian Chivu memberikan pernyataan terkait pencapaian bersejarah klub dalam musim ini.",
+      "original_data": {
+        "title": "Dominasi Inter Milan: Chivu Sukses Kawinkan Scudetto dan Coppa Italia Ke-10",
+        "link": "https://mediaindonesia.com/sepak-bola/890075/dominasi-inter-milan-chivu-sukses-kawinkan-scudetto-dan-coppa-italia-ke-10",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "Inter Milan resmi meraih gelar \"Double\" musim ini setelah menumbangkan Lazio di Final Coppa Italia. Simak pernyataan Cristian Chivu tentang pencapaian bersejarah ini.",
+        "source_id": "mediaindonesia",
+        "language": "indonesian"
+      }
+    },
+    {
+      "summary": "La afición del Valencia Basket ha celebrado la clasificación histórica del equipo para la Final Four de la Euroliga. Los aficionados expresaron su alegría tras lograr este resultado deportivo.",
+      "original_data": {
+        "title": "Así lo ha celebrado la afición taronja",
+        "link": "https://www.superdeporte.es/videos/valencia-basket/2026/05/14/celebrado-aficion-taronja-final-four-euroliga-roig-arena-130204977.html",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "La alegría y la emoción se ha desatado entre la afición taronja tras la histórica clasificación para la Final Four del Valencia Basket.",
+        "source_id": "superdeporte",
+        "language": "spanish"
+      }
+    },
+    {
+      "summary": "Jeep is recalling more than 20,000 Cherokee SUVs in Canada. The recall is due to potential risks of vehicle rollaway and loss of power.",
+      "original_data": {
+        "title": "Jeep recalls more than 20,000 SUVs in Canada over potential rollaway and loss of power risk",
+        "link": "https://www.thepeterboroughexaminer.com/news/jeep-cherokee-rollaway-risk-recall/article_d38ee038-95c8-5b35-968c-e22e5d7ecc11.html",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "The Jeep Cherokee recall was posted on the Transport Canada website May 13.",
+        "source_id": "thepeterboroughexaminer",
+        "language": "english"
+      }
+    },
+    {
+      "summary": "啦啦隊女神李多慧在出席活動時，公開替好友籃籃聲援。李多慧對外界質疑籃籃將胡瓜當作工具人的爭議不予評價，但保證籃籃在工作上從未遲到。",
+      "original_data": {
+        "title": "籃籃爆把胡瓜當工具人 李多慧挺:工作她沒遲到",
+        "link": "https://www.ettoday.net/news/20260514/3165573.htm",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "啦啦隊女神李多慧13日出席活動,同時也替好友籃籃說話,替她掛保證「從沒看過籃籃遲到」。 《詳全文...》",
+        "source_id": "ettoday",
+        "language": "chinese"
+      }
+    },
+    {
+      "summary": "استعرضت اللجنة المالية والقانونية بمجلس أمانة العاصمة تقرير أعمالها وإنجازاتها لدور الانعقاد الرابع للفترة من سبتمبر 2025 حتى يونيو 2026. وأكدت اللجنة خلال الجلسة على تعزيز الرقابة وتطوير الشراكة مع القطاع الخاص.",
+      "original_data": {
+        "title": "\"مالية وقانونية أمانة العاصمة\" تستعرض إنجازاتها وتؤكد تعزيز الرقابة والشراكة مع القطاع الخاص",
+        "link": "https://alwatannews.net/bahrain/article/4081601/%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA%D9%87%D8%A7-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "سيد حسين القصاباستعرضت اللجنة المالية والقانونية بمجلس أمانة العاصمة، خلال جلسة المجلس، أمس، تقرير أعمالها وإنجازاتها لدور الانعقاد الرابع للفترة من سبتمبر 2025 حتى يونيو 2026، متض...",
+        "source_id": "alwatannews",
+        "language": "arabic"
+      }
+    },
+    {
+      "summary": "Willamette Valley Vineyards reported sales revenue of $8,256,153 for the first quarter ended March 31, 2026, marking a 9.5% increase over the previous year. The company's net loss decreased by 22.5% to $565,073, primarily due to higher case sales to distributors.",
+      "original_data": {
+        "title": "Willamette Valley Vineyards Posts Results for Q1 2026",
+        "link": "https://www.benzinga.com/pressreleases/26/05/n52548363/willamette-valley-vineyards-posts-results-for-q1-2026",
+        "pubDate": "2026-05-13 22:21:00",
+        "description": "SALEM, Ore. , May 13, 2026 /PRNewswire/ -- Willamette Valley Vineyards, Inc. (NASDAQ: WVVI ) (the \"Company\"), a leading Oregon producer of Pinot Noir, generated a loss per common share after preferred dividends of $0.24 and $0.26 for the three months ended March 31, 2026 and 2025 respectively, a decrease of $0.02, for the three month period ended March 31, 2026 over the same three month period in the prior year. Sales revenue for the three months ended March 31, 2026 and 2025 was $8,256,153 and $7,541,583, respectively, an increase of $714,570, or 9.5%, in the current year period over the prior year period. This increase was caused by an increase in revenues from distributor sales of $797,678, being partly offset by a decrease in direct sales to consumers of $83,108 in the current year's three-month period over the same period in the prior year. The increase in revenue from distributors was primarily attributed to higher case sales in the current year three-month period over the same period in the prior year. The decrease in direct sales to consumers was primarily the result of lower wine club and internet revenues. Gross profit for the three months ended March 31, 2026 and 2025 was $5,029,064 and $4,759,108, respectively, an increase of $269,956, or 5.7%, in the first quarter of 2026 over the same quarter in the prior year. This increase was primarily the result of an increase in sales through distributors. Selling, general and administrative expenses for the three months ended March 31, 2026 and 2025 was $5,706,858 and $5,629,086, respectively, an increase of $77,772, or 1.4%, in the current quarter over the same quarter in the prior year. This increase was primarily the result of an increase in selling expenses of $116,135, or 2.9% being partly offset by a decrease in general and administrative expenses of $38,363, or 2.3% in the current quarter compared to the same quarter last year. Net loss for the three months ended March 31, 2026 and 2025 was $565,073 and $728,981, respectively, a decrease of $163,908 or 22.5%, in the first quarter of 2026 over the same quarter in the prior year. The decrease in net loss for the first quarter of 2026, compared to the comparable period in 2025, was primarily the result of higher case sales to distributors in 2026. Jim Bernau, Founder and President of the Company \"I believe this first quarter reflects the Company's aggressive response to the challenges in national distribution. Our new CEO Mike Osborn has beefed up the professional staff of our national sales team and promoted Brittany Galego of HR to lead operations, giving him more focused time with wholesalers.\" For a complete discussion of the Company's financial condition and operating results for the first quarter 2026, see our Form 10-Q for the three months ended March 31, 2026, as filed with the United States Securities and Exchange Commission on EDGAR. Willamette Valley Vineyards, Inc. is headquartered at its Estate Vineyard near Salem, Oregon. The Company's common stock is traded on NASDAQ (WVVI). This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, referred to as the \"Securities Act\", and Section 21E of the Securities Exchange Act of 1934, as amended, referred to as the \"Exchange Act\". These forward-looking statements involve risks and uncertainties that are based on current expectations, estimates and projections about the Company's business, and beliefs and assumptions made by ... Full story available on Benzinga.com",
+        "source_id": "benzinga",
+        "language": "english"
+      }
+    }
+  ]
+}

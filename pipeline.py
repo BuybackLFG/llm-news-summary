@@ -1,8 +1,8 @@
 from datetime import datetime, timezone
 from typing import List
 
-from config import NEWSDATA_API_KEY, OUTPUT_DIR
-from groq_client import summarize_article
+from config import LLM_MODEL, NEWSDATA_API_KEY, OUTPUT_DIR
+from llm_client import summarize_article
 from logger import get_logger
 from models import ArticleRaw, FinalOutput, ProcessedArticle
 from news_fetcher import fetch_top_news
@@ -36,7 +36,7 @@ def run() -> None:
     result = FinalOutput(
         generated_at=datetime.now(timezone.utc).isoformat(),
         source_api="NewsData.io",
-        llm_model="openai/gpt-oss-120b",
+        llm_model=LLM_MODEL,
         total_raw_articles=total,
         total_summarized=len(processed),
         articles=processed,
